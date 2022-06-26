@@ -6,10 +6,10 @@ Just my set of configs for the Artillery Genius Pro running Klipper.
 ### Current Klipper Converstion Project Status:
 1. Artillery Genius Pro Stock - working very well
 2. Artillery Genius Pro SKR3 + LGX - **WIP**, issues imminent 
-  2.1 LGX Over extrusion, basic calibration
-  2.2 Linear Rails on all axis
-  2.3 EBB42 1.0 on USB instead of the Genius EBB
-  2.4 EBB42 ADXL and Bltoutch
+  - LGX Over extrusion, basic calibration
+  - Linear Rails on all axis
+  - EBB42 1.0 on USB instead of the Genius EBB
+  - EBB42 ADXL and Bltoutch
 
 ---------------------------------------------------------------------------------
 
