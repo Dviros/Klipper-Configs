@@ -46,7 +46,7 @@ X Linear Rails:
 - https://www.thingiverse.com/thing:4941133/files
 
 Rod support:
-https://www.thingiverse.com/thing:5143100
+- https://www.thingiverse.com/thing:5143100
 
 Brace support:
 - https://www.thingiverse.com/thing:4601974
