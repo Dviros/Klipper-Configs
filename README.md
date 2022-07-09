@@ -22,6 +22,39 @@ Just my set of configs for the Artillery Genius Pro running Klipper.
 - ADXL345 input shaper (using EBB42)
 - Jetson Nano as the Moonraker\Octoprint\Mainsail server
 - Antclabs Bltouch 3.1
+---------------------------------------------------------------------------------
+
+### How to flash:
+I've flashed Klipper using USB even though this specific chip does not support it and should be flashed using SD Card - it didn't work for me.
+
+At the moment, bootloader is skipped and I can't revert to Marlin - be careful if you ever want to.
+
+Set your config to the following:
+
+![image](https://user-images.githubusercontent.com/23431860/178116003-bf4d2adb-9c7d-4dac-b93c-876c1bf98000.png)
+
+and use `dfu-util -a 0 -s 0x8000000:leave -D out/klipper.bin`
+
+---------------------------------------------------------------------------------
+
+### What did you use to enhance your printer?
+Here are the relevant projects I've used - all respect goes to them!
+Z Linear Rails:
+- https://www.thingiverse.com/thing:4632881
+
+X Linear Rails:
+- https://www.thingiverse.com/thing:4941133/files
+
+Rod support:
+https://www.thingiverse.com/thing:5143100
+
+Brace support:
+- https://www.thingiverse.com/thing:4601974
+- https://www.thingiverse.com/thing:4770873
+- https://www.thingiverse.com/thing:4718116
+
+Belt tensioners:
+- https://www.aliexpress.com/item/1005001874457464.html
 
 ---------------------------------------------------------------------------------
 Several considerations:
