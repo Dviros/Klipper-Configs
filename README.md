@@ -4,12 +4,17 @@ Just my set of configs for the Artillery Genius Pro running Klipper.
 ---------------------------------------------------------------------------------
 
 ### Current Klipper Converstion Project Status:
-1. Artillery Genius Pro Stock - working very well
+1. Artillery Genius Pro Stock - works very well
 2. Artillery Genius Pro SKR3 + LGX + EBB42 - works flawlessly 
-  - LGX Over extrusion, basic calibration
+
+#### TODO:
+  - ~LGX Over extrusion, basic calibration~
   - ~Linear Rails on all axis~
-  - ~EBB42 1.0 on USB instead~ combined with the Genius EBB
+  - ~EBB42 1.2 on USB instead~ combined with the Genius EBB
   - ~EBB42 ADXL and Bltoutch~
+  - CANbus for the EBB, removing Artillery's shitty EBB and flimsy flat cable
+  - Raspberry Pi mount inside the printer
+  - LED mount on top
 
 ---------------------------------------------------------------------------------
 
