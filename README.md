@@ -1,4 +1,8 @@
 # Klipper-Configs
+## I've stopped maintaining this printer and moved to Bambu :)
+### Good luck for any future endeavors, leaving this repo as is
+
+
 Just my set of configs for the Artillery Genius Pro running Klipper.
 
 ---------------------------------------------------------------------------------
